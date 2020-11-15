@@ -4,7 +4,7 @@
 ## What is it ?
 An All-In-One Platform To Meet 80% Of Your Needs In Your College or University Developed By Team BroCode
 
-![Qnet Home](https://github.com/AlexyPulivelil/DefHack/blob/main/Assets/Qnet%20Home.jpg)
+![Qnet Home](https://github.com/AlexyPulivelil/DefHack/blob/main/Assets/Qnet.jpg)
 
 
 ## Features
