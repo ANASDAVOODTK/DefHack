@@ -19,7 +19,7 @@ An All-In-One Platform To Meet 80% Of Your Needs In Your College or University. 
 
 ## Showcase
 
-![Features Showcase](https://github.com/AlexyPulivelil/DefHack/blob/main/Assets/New.jpg)
+![Features Showcase](https://github.com/AlexyPulivelil/DefHack/blob/main/Assets/Features%20Final.jpg)
 
 
 ## Requirements
