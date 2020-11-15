@@ -13,7 +13,7 @@ An All-In-One Platform To Meet 80% Of Your Needs In Your College or University D
 - **Class Scheduling:** Helps to schedule classes which makes easier for the students to know the time.
 - **Attendance Alert:** Gives a track with low attendence alert.
 - **Fee Payment:** Academic fees can be payed easily.
-- **Library:** Include all refrence books and notes. 
+- **Library:** Include all reference books and notes. 
 - **Academic Status:** Shows detailed view of acedamic performance.
 - **Address Book:** Shows the details of faculties and students.
 
