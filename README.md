@@ -7,14 +7,6 @@ An All-In-One Platform To Meet 80% Of Your Needs In Your College or University D
 ![Qnet Home](https://github.com/AlexyPulivelil/DefHack/blob/main/Assets/Qnet%20Home.jpg)
 
 
-
-
-
-## Showcase
-
-UI of all features
-
-
 ## Features
 
 - **Voice Assistant** : Important feature in the app, which perform all the above mentioned features
@@ -24,6 +16,10 @@ UI of all features
 - **Library:** Include all refrence books and notes 
 - **Academic Status:** Shows deatiled view of acedamic performance
 - **Address Book:** Shows the details of faculties and studensts
+
+## Showcase
+
+UI of all features
 
 
 ## Requirements
