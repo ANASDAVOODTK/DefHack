@@ -4,15 +4,7 @@
 ## What is it ?
 An All-In-One Platform To Meet 80% Of Your Needs In Your College or University Developed By Team BroCode
 
-gif/image
-
-
-
-
-
-## Showcase
-
-UI of all features
+![Qnet Home](https://github.com/AlexyPulivelil/DefHack/blob/main/Assets/Qnet%20Home.jpg)
 
 
 ## Features
@@ -24,6 +16,10 @@ UI of all features
 - **Library:** Include all refrence books and notes 
 - **Academic Status:** Shows deatiled view of acedamic performance
 - **Address Book:** Shows the details of faculties and studensts
+
+## Showcase
+
+UI of all features
 
 
 ## Requirements
