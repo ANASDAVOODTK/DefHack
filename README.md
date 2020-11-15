@@ -32,7 +32,7 @@ Mobile Phone Running on Android
 
 ## Build With
 
-- [JAVA](https://java.com/en/) - To develop Androi applications
+- [JAVA](https://java.com/en/) - To develop Android applications
 - [FIREBASE](https://firebase.google.com/) - To store the data in Cloud
 - [IBM WATSON](https://www.ibm.com/watson/how-to-build-a-chatbot) - Used for the Bot integration
 - [FIGMA](https://www.figma.com/) - Vector graphics editor and prototyping tool
